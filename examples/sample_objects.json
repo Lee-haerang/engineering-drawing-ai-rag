@@ -1,0 +1,34 @@
+[
+  {
+    "object_id": "PU001",
+    "type": "PUMP",
+    "tag_no": "P-101",
+    "spec": "MAIN",
+    "bbox": [100, 200, 60, 60],
+    "confidence": 0.96
+  },
+  {
+    "object_id": "P001",
+    "type": "PIPE",
+    "tag_no": "L-1001",
+    "spec": "100A",
+    "bbox": [180, 225, 120, 20],
+    "confidence": 0.93
+  },
+  {
+    "object_id": "V001",
+    "type": "VALVE",
+    "tag_no": "V-201",
+    "spec": "100A",
+    "bbox": [320, 215, 35, 35],
+    "confidence": 0.91
+  },
+  {
+    "object_id": "TK001",
+    "type": "TANK",
+    "tag_no": "TK-301",
+    "spec": "STORAGE",
+    "bbox": [430, 180, 90, 120],
+    "confidence": 0.95
+  }
+]
